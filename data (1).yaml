@@ -1,0 +1,6 @@
+names:
+- iw
+nc: 1
+path: /content/drive/MyDrive/ISRO_Data_2
+train: images/train
+val: images/val
